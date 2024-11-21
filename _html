@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Filmes da Barbie</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Coleção de Filmes da Barbie</h1>
+  </header>
+
+  <section class="movie-list">
+
+    <!-- Filme 1 -->
+    <div class="movie">
+      <h2>Barbie: A Princesa e a Plebeia</h2>
+      <div class="video-container">
+        <iframe width="560" height="315" src="https://youtu.be/bSUG9csHDdE?si=rCfsY-EVNAeecJs_" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="movie-description">
+        <p><strong>Resumo:</strong> Barbie interpreta a princesa Annalise, que deseja uma vida simples, e a plebeia Erika, que sonha em viver como uma princesa. Elas trocam de lugar e enfrentam diversos desafios, enquanto aprendem o verdadeiro significado de amizade e amor.</p>
+      </div>
+    </div>
+
+    <!-- Filme 2 -->
+    <div class="movie">
+      <h2>Barbie: Barbie: O Segredo das Fadas</h2>
+      <div class="video-container">
+        <iframe width="560" height="315" src="https://youtu.be/uvq-76lFFn8?si=hOczhiIYbQGeI2Yw" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="movie-description">
+        <p><strong>Resumo:</strong> Barbie interpreta Elina, uma fada sem asas que parte em uma missão para resgatar a princesa Isla. Ela aprende que a verdadeira magia está em acreditar em si mesma.</p>
+      </div>
+    </div>
+
+    <!-- Filme 3 -->
+    <div class="movie">
+      <h2>Barbie em O Quebra-Nozes</h2>
+      <div class="video-container">
+        <iframe width="560" height="315" src="https://youtu.be/jqamVN8iyqI?si=w5qwjZ7636wJPeiZ" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="movie-description">
+        <p><strong>Resumo:</strong> Barbie interpreta Clara, uma jovem que é transportada para um mundo encantado onde ela se une ao Quebra-Nozes para derrotar o mal e salvar o reino dos doces.</p>
+      </div>
+    </div>
+
+    <!-- Filme 4 -->
+    <div class="movie">
+      <h2>Barbie: Escola de Princesas</h2>
+      <div class="video-container">
+        <iframe width="560" height="315" src="https://youtu.be/vpVVfbCRCJk?si=9T8fKAuwfFgKV97M" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="movie-description">
+        <p><strong>Resumo:</strong> Barbie interpreta Isla, uma jovem que descobre ser filha de um rei e vai estudar na Escola Real de Princesas. Lá, aprende que ser uma verdadeira princesa é ser autêntica, corajosa e gentil.</p>
+      </div>
+    </div>
+
+    <!-- Filme 5 -->
+    <div class="movie">
+      <h2>Barbie e o Castelo de Diamante</h2>
+      <div class="video-container">
+        <iframe width="560" height="315" src="https://youtu.be/mrNr_lGXok4?si=cBsswgEkttvQ986F" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="movie-description">
+        <p><strong>Resumo:</strong> Barbie é a princesa Delphine, que vive em um castelo encantado feito de diamantes. Quando o castelo é ameaçado por forças do mal, ela e seus amigos devem lutar para salvar seu lar.</p>
+      </div>
+    </div>
+
+    <!-- Filme 6 -->
+    <div class="movie">
+      <h2>Barbie: Em Aventura nas Estrelas</h2>
+      <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=K0Od1xh742A" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="movie-description">
+        <p><strong>Resumo:</strong> Barbie e suas amigas viajam para o espaço em uma missão para salvar a galáxia. Elas enfrentam desafios intergalácticos e descobrem o poder da amizade e do trabalho em equipe.</p>
+      </div>
+    </div>
+
+    <!-- Filme 7 -->
+    <div class="movie">
+      <h2>Barbie: A Princesa Pop Star</h2>
+      <div class="video-container">
+        <iframe width="560" height="315" src="https://youtu.be/Nt1BK8NnHFo?si=dqzfD8lZQuJzyjNe" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="movie-description">
+        <p><strong>Resumo:</strong> Barbie é a princesa Courtney, uma jovem que sonha em se tornar uma estrela pop. Quando ela troca de lugar com a popstar Keira, elas aprendem que ser verdadeiro consigo mesmo é o segredo para o sucesso.</p>
+      </div>
+    </div>
+
+    <!-- Filme 8 -->
+    <div class="movie">
+      <h2>Barbie & Her Sisters in a Pony Tale</h2>
+      <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=nF8eoZNn3UA" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="movie-description">
+        <p><strong>Resumo:</strong> Em "Barbie & Her Sisters in a Pony Tale", Barbie e suas irmãs passam férias em um resort nas montanhas, onde Barbie treina um pônei para competir em um campeonato de equitação. O filme foca em amizade e amor pelos animais.</p>
+      </div>
+    </div>
+
+    <!-- Filme 9 -->
+    <div class="movie">
+      <h2>Barbie: a Fashion Fairytale</h2>
+      <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=zSIxACj4tAE" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="movie-description">
+        <p><strong>Resumo:</strong> Em "Barbie: A Fashion Fairytale", Barbie vai a Paris e, com a ajuda de suas amigas fadas e um príncipe, usa sua criatividade para salvar a indústria da moda e criar uma nova coleção. O filme celebra criatividade, amizade e autoestima.</p>
+      </div>
+    </div>
+
+    <!-- Filme 10 -->
+    <div class="movie">
+      <h2>Barbie e As Sapatilhas Mágicas</h2>
+      <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=-ZnFSMfrIQI" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="movie-description">
+        <p><strong>Resumo:</strong> Em "Barbie e as Sapatilhas Mágicas", Barbie é Kristyn, uma bailarina que encontra sapatilhas mágicas e é transportada para um mundo encantado. Lá, ela deve usar sua coragem e amizade para salvar o reino da dança.</p>
+      </div>
+    </div>
+
+  </section>
+
+</body>
+</html>
